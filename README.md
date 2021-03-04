@@ -1,0 +1,1 @@
+This is a tutorial project for learning flask following the book Flask Web Development Second Edition
